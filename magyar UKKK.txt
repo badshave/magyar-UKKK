@@ -1,0 +1,1301 @@
+
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Sky Replay" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: Sky Replay
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131776?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS ACTION FHD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS ACTION FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131775?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS ACTION HD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS ACTION HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131774?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS ARENA FHD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS ARENA FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131773?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS ARENA HD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS ARENA HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131772?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS CRICKET" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS CRICKET
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131771?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS CRICKET FHD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS CRICKET FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131770?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS F1" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS F1
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131769?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS FOOTBALL HD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS FOOTBALL HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131768?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Sky Sports Golf" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: Sky Sports Golf
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131767?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS GOLF FHD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS GOLF FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131766?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS MAIN EVENT FHD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS MAIN EVENT FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131765?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS MAIN EVENT HD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS MAIN EVENT HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131764?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Sky Sports Mix" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: Sky Sports Mix
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131763?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS MIX FHD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS MIX FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131762?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Sky Sports News" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: Sky Sports News
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131761?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS NEWS FHD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS NEWS FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131760?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS PREMIER LEAGUE HD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS PREMIER LEAGUE HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131759?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SKY SPORTS RACING FHD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: SKY SPORTS RACING FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131758?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Sky Sports Racing HD" timeshift="0" tvg-logo="" group-title="PREMIUM SPORT CSATORNÁK",UK VIP: Sky Sports Racing HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/131757?utc=1718098773&lutc=1718098773#EXTINF:-1 tvg-id="" tvg-name="UK VIP: 4Music" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: 4Music
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20368?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: 5 Star" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: 5 Star
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20367?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: 5 USA" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: 5 USA
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20366?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: 92 News" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: 92 News
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20365?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: : GEO NEWS" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: : GEO NEWS
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20364?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: : HIDAYAT" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: : HIDAYAT
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20363?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: : Sony Max" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: : Sony Max
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20362?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: : Sony TV" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: : Sony TV
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20361?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: : Star Gold" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: : Star Gold
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20360?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: : Star Plus" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: : Star Plus
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20359?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: AAJ TAK" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: AAJ TAK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20358?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: AL JAZEERA HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: AL JAZEERA HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20357?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: ALIBI FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: ALIBI FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20356?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: AMC FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: AMC FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20355?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: ANIMAL PLANET HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: ANIMAL PLANET HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20354?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: ATN Bangla UK" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: ATN Bangla UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20353?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BABY TV" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BABY TV
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20352?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC 1" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC 1
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20351?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC 1 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC 1 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20350?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC 1 NORTHERN IRELAND FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC 1 NORTHERN IRELAND FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20349?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC 2" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC 2
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20348?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC 2 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC 2 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20347?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC 3 HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC 3 HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20346?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC 4 HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC 4 HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20345?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC ALBA" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC ALBA
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20344?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC News" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC News
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20343?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC NEWS FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC NEWS FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20342?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc One Cambridge" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc One Cambridge
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20341?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc One London" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc One London
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20340?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc One Midlands" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc One Midlands
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20339?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc One North East" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc One North East
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20338?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc One North West" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc One North West
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20337?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc One Oxford" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc One Oxford
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20336?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC ONE SCOTLAND FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC ONE SCOTLAND FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20335?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc One South" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc One South
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20334?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc One South East (alt)" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc One South East (alt)
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20333?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc One Wales" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc One Wales
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20332?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc One West" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc One West
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20331?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc One Yorkshire" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc One Yorkshire
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20330?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC SCOTLAND FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC SCOTLAND FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20329?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bbc Two Ni" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bbc Two Ni
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20328?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC TWO SCOTLAND" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC TWO SCOTLAND
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20327?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BBC WALES FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BBC WALES FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20326?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BLAZE" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BLAZE
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20325?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Bloomberg FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Bloomberg FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20324?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BOOMERANG" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BOOMERANG
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20323?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BOX HITS" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BOX HITS
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20322?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BOXNATION" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BOXNATION
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20321?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORT ESPN FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORT ESPN FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20320?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORTS 1" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORTS 1
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20319?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT Sports 1 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT Sports 1 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20318?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORTS 2" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORTS 2
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20317?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT Sports 2 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT Sports 2 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20316?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORTS 3" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORTS 3
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20315?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT Sports 3 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT Sports 3 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20314?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORTS ESPN" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORTS ESPN
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20313?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORTS EXTRA 1" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORTS EXTRA 1
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20312?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORTS EXTRA 2" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORTS EXTRA 2
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20311?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORTS EXTRA 3" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORTS EXTRA 3
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20310?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORTS EXTRA 4" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORTS EXTRA 4
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20309?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORTS EXTRA 5" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORTS EXTRA 5
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20308?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORTS EXTRA 6" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORTS EXTRA 6
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20307?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: BT SPORTS EXTRA 7" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: BT SPORTS EXTRA 7
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20306?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CARTONITO ( NOT 24H )" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CARTONITO ( NOT 24H )
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20305?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CARTOON NETWORK FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CARTOON NETWORK FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20304?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CBBC FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CBBC FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20303?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CBEEBIES HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CBEEBIES HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20302?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CBS Action" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CBS Action
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20301?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CBS DRAMA" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CBS DRAMA
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20300?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CBS JUSTICE" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CBS JUSTICE
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20299?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CBS Reality" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CBS Reality
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20298?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CHALLENGE" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CHALLENGE
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20297?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CHANNEL 4 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CHANNEL 4 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20296?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CHANNEL 5 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CHANNEL 5 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20295?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CITV" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CITV
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20294?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CNN FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CNN FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20293?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: COLORS" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: COLORS
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20292?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: ColorsRishtey" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: ColorsRishtey
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20291?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: COMEDY CENTRAL EXTRA" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: COMEDY CENTRAL EXTRA
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20290?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: COMEDY CENTRAL FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: COMEDY CENTRAL FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20289?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: CRIME INVESTIGATION FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: CRIME INVESTIGATION FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20288?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DAVE FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DAVE FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20287?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DISCOVERY FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DISCOVERY FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20286?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DISCOVERY HISTORY" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DISCOVERY HISTORY
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20285?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DISCOVERY HOME AND HEALTH" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DISCOVERY HOME AND HEALTH
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20284?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DISCOVERY SCIENCE" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DISCOVERY SCIENCE
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20283?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DISCOVERY SHED" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DISCOVERY SHED
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20282?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DISCOVERY TURBO" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DISCOVERY TURBO
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20281?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DISNEY CHANNEL" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DISNEY CHANNEL
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20280?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DISNEY JUNIOR" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DISNEY JUNIOR
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20279?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DISNEY XD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DISNEY XD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20278?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DMAX" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DMAX
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20277?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: DRAMA" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: DRAMA
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20276?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: E! ENTERTAINMENT" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: E! ENTERTAINMENT
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20275?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: E4 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: E4 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20274?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: EDEN FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: EDEN FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20273?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: EUROSPORTS 1 HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: EUROSPORTS 1 HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20272?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: EUROSPORTS 2 HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: EUROSPORTS 2 HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20271?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: FILM 4 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: FILM 4 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20270?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: FOOD NETWORK" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: FOOD NETWORK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20269?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: FOX FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: FOX FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20268?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: FRANCE 24 UK HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: FRANCE 24 UK HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20267?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: FREE SPORTS HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: FREE SPORTS HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20266?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: GOLD FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: GOLD FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20265?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: HISTORY 2 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: HISTORY 2 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20264?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: HISTORY FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: HISTORY FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20263?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: HORROR CHANNEL" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: HORROR CHANNEL
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20262?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: HUM Masala" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: HUM Masala
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20261?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: INVESTIGATION DISCOVERY (ID)" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: INVESTIGATION DISCOVERY (ID)
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20260?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: ITV 2 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: ITV 2 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20259?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: ITV 3 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: ITV 3 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20258?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: ITV 4 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: ITV 4 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20257?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: ITV BE HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: ITV BE HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20256?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: ITV FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: ITV FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20255?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: LA LIGA FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: LA LIGA FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20254?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: LFC TV FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: LFC TV FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20253?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: LIFETIME FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: LIFETIME FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20252?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: LONDON LIVE" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: LONDON LIVE
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20251?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Madani Chnl" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Madani Chnl
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20250?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: MAGIC" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: MAGIC
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20249?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: MORE 4" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: MORE 4
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20248?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Movie/Chirstmas 24 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Movie/Chirstmas 24 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20247?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: MTA World" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: MTA World
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20246?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: MTV BASE" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: MTV BASE
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20245?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: MTV CLASSIC" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: MTV CLASSIC
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20244?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: MTV FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: MTV FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20243?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: MTV HITS" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: MTV HITS
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20242?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: MTV ROCKS" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: MTV ROCKS
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20241?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: MU FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: MU FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20240?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: NAT GEO FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: NAT GEO FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20239?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: NAT GEO WILD FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: NAT GEO WILD FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20238?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: NICK FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: NICK FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20237?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: NICK JR TOO" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: NICK JR TOO
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20236?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: NICK JUNIOR" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: NICK JUNIOR
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20235?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: NICK TOONS" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: NICK TOONS
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20234?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Noor TV" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Noor TV
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20233?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Now 70s" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Now 70s
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20232?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Now80s" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Now80s
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20231?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: PARAMOUNT HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: PARAMOUNT HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20230?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: PICK TV" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: PICK TV
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20229?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: POP" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: POP
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20228?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: POP MAX" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: POP MAX
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20227?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: PREMIER SPORTS 1 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: PREMIER SPORTS 1 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20226?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Premier Sports 2" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Premier Sports 2
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20225?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: PREMIER SPORTS 2 FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: PREMIER SPORTS 2 FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20224?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: QUEST FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: QUEST FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20223?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: QVC Beauty" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: QVC Beauty
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20222?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: QVC Extra" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: QVC Extra
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20221?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: QVC Style" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: QVC Style
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20220?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: QVC U.K." timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: QVC U.K.
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20219?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: RACING UK FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: RACING UK FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20218?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SONY CHANNEL" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: SONY CHANNEL
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20160?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SONY CRIME" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: SONY CRIME
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20159?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SONY MAX 2" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: SONY MAX 2
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20158?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: STV FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: STV FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20155?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: SYFY FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: SYFY FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20154?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: TCM" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: TCM
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20153?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: TINY POP" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: TINY POP
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20152?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: TLC FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: TLC FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20151?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: TRAVEL CHANNEL" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: TRAVEL CHANNEL
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20150?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: TRAVEL WAREHOUSE" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: TRAVEL WAREHOUSE
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20149?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: UFC TV HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: UFC TV HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20148?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Venus TV" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Venus TV
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20147?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: VH1" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: VH1
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20146?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: Viceland HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: Viceland HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20145?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: VIRGIN MEDIA SPORTS HD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: VIRGIN MEDIA SPORTS HD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20144?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: W FHD" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: W FHD
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20143?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: William Hill Betting" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: William Hill Betting
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20142?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="UK VIP: YESTERDAY" timeshift="0" tvg-logo="" group-title="ANGLIA",UK VIP: YESTERDAY
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/20141?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] 4Music UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] 4Music UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31635?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] 4Seven UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] 4Seven UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31634?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] 5 Star UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] 5 Star UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31633?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] 5 USA UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] 5 USA UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31632?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] AMC From BT UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] AMC From BT UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31631?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] AT THE RACES UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] AT THE RACES UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31630?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Alibi UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Alibi UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31629?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Animal Planet +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Animal Planet +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31628?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Animal Planet UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Animal Planet UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31627?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Four HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Four HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31626?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Four UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Four UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31625?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC News HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC News HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31624?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Channel Islands UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Channel Islands UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31623?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31622?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Northern Ireland UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Northern Ireland UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31621?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Oxford UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Oxford UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31620?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Scotland UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Scotland UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31619?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31618?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Wales UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Wales UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31617?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Yorks UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Yorks UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31616?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Parliament UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Parliament UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31615?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Two HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Two HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31614?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Two Scotland UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Two Scotland UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31613?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Two UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Two UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31612?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC World News UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC World News UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31611?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BET UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BET UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31610?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 1 HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 1 HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31609?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31608?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 2 HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 2 HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31607?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 2 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 2 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31606?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 3 HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 3 HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31605?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 3 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 3 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31604?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport ESPN HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport ESPN HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31603?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport ESPN UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport ESPN UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31602?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Extra 1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Extra 1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31601?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Extra 2 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Extra 2 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31600?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Extra 3 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Extra 3 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31599?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Extra 4 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Extra 4 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31598?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Extra 5 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Extra 5 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31597?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Mosaic 2 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Mosaic 2 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31596?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Baby TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Baby TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31595?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Blaze UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Blaze UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31594?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Bloomberg TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Bloomberg TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31593?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Boomerang +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Boomerang +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31592?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Boomerang UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Boomerang UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31591?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Box Hits UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Box Hits UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31590?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Hip Hop & R & B Music TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Hip Hop & R & B Music TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31589?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BoxNation HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BoxNation HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31588?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BoxNation UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BoxNation UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31587?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CAPITAL TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CAPITAL TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31586?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CBBC HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CBBC HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31585?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CBBC UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CBBC UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31584?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CBS Action UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CBS Action UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31583?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CBS Drama UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CBS Drama UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31582?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CBS Reality UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CBS Reality UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31581?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CBeebies HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CBeebies HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31580?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CITV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CITV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31579?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CNN UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CNN UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31578?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Cartoon Network UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Cartoon Network UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31577?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Cartoonito UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Cartoonito UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31576?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Challenge +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Challenge +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31575?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Celtic TV (Live Matches Only) UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Celtic TV (Live Matches Only) UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31574?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Challenge UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Challenge UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31573?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 4 HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 4 HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31572?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 4 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 4 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31571?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 5 HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 5 HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31570?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 5 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 5 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31569?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel AKA UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel AKA UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31568?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Trace Urban UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Trace Urban UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31567?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Chelsea TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Chelsea TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31566?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Comedy Central Extra +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Comedy Central Extra +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31565?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Comedy Central Extra UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Comedy Central Extra UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31564?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Comedy Central UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Comedy Central UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31563?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Crime+Investigation +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Crime+Investigation +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31562?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] DMAX +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] DMAX +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31561?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] DMAX UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] DMAX UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31560?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Dave UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Dave UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31559?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Dave ja vu UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Dave ja vu UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31558?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery Channel +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery Channel +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31557?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery Channel UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery Channel UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31556?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery History +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery History +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31555?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery History UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery History UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31554?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery Home & Health +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery Home & Health +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31553?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery Home & Health UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery Home & Health UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31552?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery Science +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery Science +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31551?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery Science UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery Science UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31550?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery Shed UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery Shed UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31549?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery Turbo UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery Turbo UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31548?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Disney Channel +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Disney Channel +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31547?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Disney Channel UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Disney Channel UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31546?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Disney Junior +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Disney Junior +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31545?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Disney Junior UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Disney Junior UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31544?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Disney XD +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Disney XD +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31543?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Disney XD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Disney XD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31542?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Drama UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Drama UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31541?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] E! +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] E! +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31540?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] E! UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] E! UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31539?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] E4 +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] E4 +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31538?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] E4 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] E4 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31537?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Eden +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Eden +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31536?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Eden UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Eden UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31535?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Eurosport 1 HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Eurosport 1 HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31534?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Eurosport 2 HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Eurosport 2 HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31533?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] FOX News UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] FOX News UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31532?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] FOX UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] FOX UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31531?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] FOX+ UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] FOX+ UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31530?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Film4 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Film4 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31529?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Food Network +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Food Network +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31528?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Food Network UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Food Network UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31527?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Free Sports HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Free Sports HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31526?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] GINX eSports TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] GINX eSports TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31525?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] GOLD +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] GOLD +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31524?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] GOLD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] GOLD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31523?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Good Food UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Good Food UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31522?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] H2 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] H2 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31521?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Hillsong Channel UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Hillsong Channel UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31520?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] History +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] History +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31519?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] History UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] History UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31518?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Home +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Home +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31517?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Home UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Home UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31516?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Horror Channel +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Horror Channel +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31515?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Horror Channel UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Horror Channel UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31514?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31513?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV Encore +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV Encore +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31512?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV Encore UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV Encore UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31511?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV 1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV 1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31510?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV2 +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV2 +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31509?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV2 HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV2 HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31508?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV2 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV2 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31507?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV3 +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV3 +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31506?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV3 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV3 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31505?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV4 +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV4 +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31504?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV4 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV4 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31503?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITVBe +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITVBe +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31502?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Investigation Discovery +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Investigation Discovery +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31501?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Investigation Discovery UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Investigation Discovery UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31500?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] KISS UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] KISS UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31499?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] KIX +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] KIX +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31498?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] KIX UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] KIX UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31497?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Kerrang! TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Kerrang! TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31496?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] LFC TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] LFC TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31495?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31494?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Rap 2K Music TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Rap 2K Music TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31493?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Base UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Base UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31492?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Classic UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Classic UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31491?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Dance UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Dance UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31490?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Hits UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Hits UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31489?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Music UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Music UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31488?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31487?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MU TV HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MU TV HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31486?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MUTV HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MUTV HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31485?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MUTV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MUTV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31484?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] More4 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] More4 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31483?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] My5 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] My5 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31480?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nat Geo Wild UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nat Geo Wild UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31479?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nick Jr. +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nick Jr. +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31478?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nick Jr. Peppa UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nick Jr. Peppa UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31477?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nick Jr. Too UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nick Jr. Too UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31476?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nick Jr. UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nick Jr. UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31475?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] NickToons UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] NickToons UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31474?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nickelodeon +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nickelodeon +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31473?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nickelodeon UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nickelodeon UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31472?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] PBS America UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] PBS America UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31471?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] POP +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] POP +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31470?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] POP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] POP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31469?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Pick +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Pick +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31468?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Pick UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Pick UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31467?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Premier Sports HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Premier Sports HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31466?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Premier Sports UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Premier Sports UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31465?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] QUEST RED +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] QUEST RED +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31464?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] QUEST RED UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] QUEST RED UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31463?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] QUEST UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] QUEST UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31462?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] RTÉ Jr UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] RTÉ Jr UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31461?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] RTÉ News Now UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] RTÉ News Now UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31460?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] RTÉ One HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] RTÉ One HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31459?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] RTÉ One UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] RTÉ One UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31458?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] RTÉ Two HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] RTÉ Two HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31457?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] RTÉ Two UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] RTÉ Two UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31456?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Racing UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Racing UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31455?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Real Lives +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Real Lives +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31454?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Real Lives UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Real Lives UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31453?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Really UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Really UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31452?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] S4C UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] S4C UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31451?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Sony Channel +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Sony Channel +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31406?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Starz TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Starz TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31405?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Syfy +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Syfy +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31404?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Syfy UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Syfy UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31403?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TCM +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TCM +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31402?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TCM UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TCM UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31401?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TG4 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TG4 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31400?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TLC +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TLC +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31399?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TLC +2 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TLC +2 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31398?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TLC UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TLC UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31397?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Tom And Jerry HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Tom And Jerry HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31396?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TV3 +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TV3 +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31395?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TV3 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TV3 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31394?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] The Box UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] The Box UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31393?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] The Vault UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] The Vault UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31392?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Tiny Pop +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Tiny Pop +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31391?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Tiny Pop UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Tiny Pop UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31390?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Travel Channel UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Travel Channel UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31389?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] True Entertainment UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] True Entertainment UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31388?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] UTV HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] UTV HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31386?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Universal Channel +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Universal Channel +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31385?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Universal Channel UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Universal Channel UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31384?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] VH1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] VH1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31383?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] VIVA UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] VIVA UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31382?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Viceland UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Viceland UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31381?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] W +1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] W +1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31380?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] W UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] W UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31379?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] World Fight Channel UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] World Fight Channel UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31378?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] YESTERDAY UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] YESTERDAY UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31377?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] eir Sport 1 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] eir Sport 1 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31376?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] eir Sport 2 HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] eir Sport 2 HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31375?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] eir Sport 2 UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] eir Sport 2 UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31374?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] tru TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] tru TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31373?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Virgin Media One UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Virgin Media One UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31372?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Virgin Media Two UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Virgin Media Two UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31371?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Virgin Sport Ireland UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Virgin Sport Ireland UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31370?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Virgin Media Three UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Virgin Media Three UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31369?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Red Bull TV FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Red Bull TV FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31368?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Duck TV UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Duck TV UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31367?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] British Muslim UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] British Muslim UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31365?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] London Live UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] London Live UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31364?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Horse & Country UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Horse & Country UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31361?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Setanta Sports UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Setanta Sports UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31360?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] SIS Two UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] SIS Two UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31359?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] SIS Racing UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] SIS Racing UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31358?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] 3e HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] 3e HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31357?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] 4Music VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] 4Music VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31356?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] 4Seven HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] 4Seven HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31355?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] 4Seven VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] 4Seven VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31354?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] 5 Spike VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] 5 Spike VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31353?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] 5 Star VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] 5 Star VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31352?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] 5 USA VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] 5 USA VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31351?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Alibi +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Alibi +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31350?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Alibi FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Alibi FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31349?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Alibi VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Alibi VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31348?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] AMC from BT HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] AMC from BT HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31347?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] AMC HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] AMC HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31346?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Animal Planet FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Animal Planet FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31345?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Animal Planet VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Animal Planet VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31344?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Alba UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Alba UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31343?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Alba VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Alba VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31342?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Four HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Four HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31341?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC News Channel HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC News Channel HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31340?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC News FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC News FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31339?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Cambridge VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Cambridge VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31338?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One East Midlands VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One East Midlands VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31337?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One East VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One East VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31336?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One East Yorkshire VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One East Yorkshire VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31335?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31334?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31333?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One London VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One London VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31332?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One North East VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One North East VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31331?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One North West VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One North West VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31330?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Northern Ireland FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Northern Ireland FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31329?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Nothern Ireland VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Nothern Ireland VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31328?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Oxford VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Oxford VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31327?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Scotland FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Scotland FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31326?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Scotland HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Scotland HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31325?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One South East VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One South East VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31324?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One South VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One South VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31323?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One South West VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One South West VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31322?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Wales HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Wales HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31321?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One West Midlands VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One West Midlands VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31320?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One West VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One West VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31319?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC One Yorks VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC One Yorks VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31318?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Parliament VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Parliament VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31317?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Two England HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Two England HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31316?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Two FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Two FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31315?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Two HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Two HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31314?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Two Nothern Ireland VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Two Nothern Ireland VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31313?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Two Scotland VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Two Scotland VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31312?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BBC Two Wales VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BBC Two Wales VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31311?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BET VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BET VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31310?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Blaze VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Blaze VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31309?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Box Nation VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Box Nation VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31308?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BoxNation FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BoxNation FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31307?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 1 FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 1 FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31306?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31305?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 2 FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 2 FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31304?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 2 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 2 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31303?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 3 FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 3 FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31302?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 3 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 3 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31301?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport ESPN VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport ESPN VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31300?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Extra 1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Extra 1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31299?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Extra 2 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Extra 2 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31298?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Extra 3 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Extra 3 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31297?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Extra 4 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Extra 4 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31296?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Extra 5 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Extra 5 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31295?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport Extra 6 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport Extra 6 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31294?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sports 1 FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sports 1 FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31293?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sports 1 HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sports 1 HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31292?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sports 2 FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sports 2 FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31291?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sports 2 HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sports 2 HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31290?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 3 FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 3 FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31289?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sport 3 HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sport 3 HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31288?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sports ESPN FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sports ESPN FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31287?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] BT Sports ESPN HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] BT Sports ESPN HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31286?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Cartoon Network FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Cartoon Network FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31285?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CBBC HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CBBC HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31284?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CBeebies HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CBeebies HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31283?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CBS Action VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CBS Action VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31282?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CBS Drama VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CBS Drama VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31281?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CBS Reality VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CBS Reality VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31280?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Challenge VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Challenge VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31279?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 4 +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 4 +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31278?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 4 FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 4 FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31277?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 4 FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 4 FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31276?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 4 HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 4 HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31275?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 4 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 4 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31274?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 5 +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 5 +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31273?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 5 FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 5 FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31272?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel 5 HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel 5 HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31271?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Channel AKA VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Channel AKA VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31270?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CITV VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CITV VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31269?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] CNN FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] CNN FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31268?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Comedy Central +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Comedy Central +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31267?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Comedy Central FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Comedy Central FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31266?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Comedy Central VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Comedy Central VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31265?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Comedy Xtra +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Comedy Xtra +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31264?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Comedy Xtra VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Comedy Xtra VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31263?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Crime & Investigation FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Crime & Investigation FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31262?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Crime+Investigation FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Crime+Investigation FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31261?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Dave FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Dave FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31260?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Dave Ja Vu VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Dave Ja Vu VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31259?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Dave VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Dave VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31258?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31257?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31256?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery History VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery History VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31255?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery Science VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery Science VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31254?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery Turbo VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery Turbo VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31253?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Discovery VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Discovery VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31252?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Disney Junior FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Disney Junior FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31251?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Disney XD FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Disney XD FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31250?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Drama VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Drama VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31249?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] E4 +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] E4 +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31248?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] E4 FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] E4 FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31247?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] E4 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] E4 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31246?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Eden +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Eden +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31245?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Eden FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Eden FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31244?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Eden VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Eden VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31243?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Eir Sport 1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Eir Sport 1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31242?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] eir Sport 2 FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] eir Sport 2 FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31241?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Eir Sport 2 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Eir Sport 2 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31240?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Eurosport 1 FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Eurosport 1 FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31239?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Eurosport 2 FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Eurosport 2 FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31238?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Film 4 FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Film 4 FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31237?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Film4 +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Film4 +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31236?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Food Network VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Food Network VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31235?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Fox FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Fox FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31234?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Gold (Backup) VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Gold (Backup) VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31233?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Gold +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Gold +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31232?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Gold VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Gold VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31231?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] FoodXP VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] FoodXP VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31230?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Good Food VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Good Food VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31229?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] H2 FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] H2 FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31228?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] H2 FHD VIP UK (Backup)" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] H2 FHD VIP UK (Backup)
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31227?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] History FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] History FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31226?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] History FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] History FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31225?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Home  1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Home  1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31224?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Home & Health VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Home & Health VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31223?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Home VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Home VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31222?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Horror Channel +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Horror Channel +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31221?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Horror Channel VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Horror Channel VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31220?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ID VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ID VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31219?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV 1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV 1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31218?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV 2 +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV 2 +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31217?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV 2 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV 2 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31216?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV 3 Backup VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV 3 Backup VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31215?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV 3 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV 3 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31214?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV 4 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV 4 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31213?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV Be +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV Be +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31212?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV Be FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV Be FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31211?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV Be VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV Be VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31210?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV Box Office FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV Box Office FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31209?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV Box Office UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV Box Office UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31208?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV Encore VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV Encore VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31207?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV1 FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV1 FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31206?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31205?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV Yorkshire West VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV Yorkshire West VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31204?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV2 FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV2 FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31203?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV3 FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV3 FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31202?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] ITV4 FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] ITV4 FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31201?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] LFC TV FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] LFC TV FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31200?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] LFCTV FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] LFCTV FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31199?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Lifetime FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Lifetime FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31198?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] LUXE TV FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] LUXE TV FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31197?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] More 4 FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] More 4 FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31196?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] More 4 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] More 4 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31195?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV 1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV 1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31194?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Base VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Base VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31193?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Classic VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Classic VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31192?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Dance VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Dance VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31191?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31190?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Hits VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Hits VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31189?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Live FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Live FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31188?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Music 24 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Music 24 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31187?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Music VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Music VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31186?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV Rocks VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV Rocks VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31185?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MTV VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MTV VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31184?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MUTV FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MUTV FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31183?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MUTV FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MUTV FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31182?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] MUTV HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] MUTV HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31181?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nat Geo Wild FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nat Geo Wild FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31180?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] National Geographic FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] National Geographic FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31179?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] National Geographic FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] National Geographic FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31178?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nick FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nick FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31177?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] NICK HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] NICK HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31176?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nick Jr  1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nick Jr  1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31175?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nick Jr Too VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nick Jr Too VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31174?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nick Jr VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nick Jr VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31173?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nickelodeon VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nickelodeon VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31172?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Nicktoons VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Nicktoons VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31171?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Peace TV Urdu VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Peace TV Urdu VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31170?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Pick VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Pick VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31169?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Pop VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Pop VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31168?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Premier Sports FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Premier Sports FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31167?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Premier Sports VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Premier Sports VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31166?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Quest  1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Quest  1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31165?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Quest Red VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Quest Red VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31164?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Quest VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Quest VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31163?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] QVC Beauty HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] QVC Beauty HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31162?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] QVC HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] QVC HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31161?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Racing FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Racing FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31160?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Racing UK HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Racing UK HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31159?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Racing VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Racing VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31158?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Really VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Really VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31157?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Rishtey VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Rishtey VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31156?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] RT HD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] RT HD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31155?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] S4C HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] S4C HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31154?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Sony Channel VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Sony Channel VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31088?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Sony Max VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Sony Max VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31087?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Sony Movie Channel VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Sony Movie Channel VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31086?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Star Bharat VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Star Bharat VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31083?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Star Gold VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Star Gold VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31082?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Star Plus VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Star Plus VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31081?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Star Utsav VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Star Utsav VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31080?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] STV FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] STV FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31079?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Syfy FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Syfy FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31078?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Talking Pictures TV VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Talking Pictures TV VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31077?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TBN UK VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TBN UK VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31076?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TCM +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TCM +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31075?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TCM FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TCM FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31074?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TG4 HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TG4 HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31073?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TLC FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TLC FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31072?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TLC VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TLC VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31071?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Travel Channel VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Travel Channel VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31070?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TRT World HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TRT World HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31069?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] True Entertainment VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] True Entertainment VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31068?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TruTV VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TruTV VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31066?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] TV3 HD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] TV3 HD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31065?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Universal FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Universal FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31064?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] UTV FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] UTV FHD UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31063?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] VH1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] VH1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31062?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] W +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] W +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31061?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] W FHD VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] W FHD VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31060?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] W VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] W VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31059?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Yesterday +1 VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Yesterday +1 VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31058?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Yesterday VIP UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Yesterday VIP UK
+http://magyar-iptv.club:8080/ygJPM5cVAP/wENu545AsH/31057?utc=1718098773&lutc=1718098773
+#EXTINF:-1 tvg-id="" tvg-name="[UK-VIP] Rangers FC TV FHD UK" timeshift="0" tvg-logo="" group-title="ANGLIA VIP",[UK-VIP] Rangers FC TV FHD UK
